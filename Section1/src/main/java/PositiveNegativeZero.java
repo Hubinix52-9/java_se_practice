@@ -11,14 +11,6 @@ public class PositiveNegativeZero {
         }
         System.out.println(info);
     }
-
-    public static void main(String[] args) {
-        PositiveNegativeZero pzn = new PositiveNegativeZero();
-        positive_zero_negative(-5);
-
-    }
-
-
 }
 
 

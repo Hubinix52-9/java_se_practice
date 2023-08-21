@@ -1,4 +1,3 @@
-import java.lang.Math;
 public class SpeedConverter {
 
     public static long toMilesPerHour(double kilometersPerHour) {
@@ -14,14 +13,16 @@ public class SpeedConverter {
             System.out.println("Invald value");
         }
         else {
-            long mph = Math.round(kilometersPerHour * 0.62137119);
+            long mph = toMilesPerHour(kilometersPerHour);
             System.out.println(kilometersPerHour + " km/h = " + mph + " mi/h");
         }
     }
 
     public static void main(String[] args) {
-//        long mph = toMilesPerHour(10.25);
-//        System.out.println(mph);
-        printConversion(-5);
+        printConversion(1.5);
+        printConversion(10.25);
+        printConversion(-5.6);
+        printConversion(25.42);
+        printConversion(75.114);
     }
 }
