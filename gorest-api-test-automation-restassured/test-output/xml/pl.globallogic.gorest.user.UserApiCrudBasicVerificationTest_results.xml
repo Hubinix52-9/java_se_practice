@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gorest-api-test-automation-restassured"
+           tests="20"
+           failures="0"
+           errors="0"
+           skipped="20"
+           time="1.961">
+  <properties />
+  
+            <testcase name="testCleanUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testCleanUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testTearDown" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testCleanUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="testSetUp" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldDeleteUserUsingId" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldCreateAUserAndReturnAnId" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldFetchAllUsersFromDefaultPageBodyExtract" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="userDataShouldContainId" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldUpdateExistingUserWithNewData" time="0.0" classname="pl.globallogic.gorest.user.UserApiCrudBasicVerificationTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
